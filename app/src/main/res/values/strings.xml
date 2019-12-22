@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">iTow</string>
+    <string name="btnNajava">Најави се</string>
+    <string name="welcomeText">Добредојдовте на iTow!</string>
+    <string name="infoRegister">Доколку се немате регистрирано, <font fgcolor='#0000FF'><u>кликнете тука!</u></font></string>
+    <string name="regWelcomeText">Регистрација!</string>
+    <string name="regRadioBtn1">Корисник</string>
+    <string name="regRadioBtn2">Шлеп Служба</string>
+    <string name="regGoNext">Иди даље</string>
+    <string name="btnRegister">Регистрирај се!</string>
+    <string name="gradPrompt">Одбери град</string>
+    <string name="btnLogOut">Одјави се!</string>
+    <string name="welcomeTextLoggedIn">Вие сте најавени!</string>
+    <string name="btnListaShlep">Листа на шлеп служби</string>
+
+    <string-array name="gradArray">
+        <item>Одбери град</item>
+        <item>Скопје</item>
+        <item>Куманово</item>
+        <item>Битола</item>
+        <item>Прилеп</item>
+        <item>Велес</item>
+        <item>Охрид</item>
+        <item>Гевгелија</item>
+        <item>Крива Паланка</item>
+    </string-array>
+</resources>
